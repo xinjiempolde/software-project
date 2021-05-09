@@ -28,6 +28,6 @@ footer small {
 <p>
 	<small> 东北大学二手交易市场，Powered By <a href="<%=basePath%>about.jsp"
 		target="_blank">周新纪</a> | <a rel="license" href="license"
-		target="_blank" title="用户协议">©</a> 2015 - 2015 </small>
+		target="_blank" title="用户协议">©</a> 2021 - 2021 </small>
 </p>
 </footer>

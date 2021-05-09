@@ -11,7 +11,7 @@
 <head>
 <jsp:include page="../site/head.jsp" />
 <base href=" <%=basePath%>">
-<title>登录-合肥学院物品交易</title>
+<title>登录-东北大学二手物品交易</title>
 <link href="src/css/sign.css" rel="stylesheet">
 
 </head>
